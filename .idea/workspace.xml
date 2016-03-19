@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6ca7182-72af-4d5b-a76e-678001b2722e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java" afterPath="$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java" />
     </list>
     <ignored path="StrutsTest3.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -66,7 +67,7 @@
       <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
+            <state vertical-scroll-proportion="-13.571428">
               <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
               <folding />
             </state>
@@ -76,12 +77,9 @@
       <file leaf-file-name="HelloAction.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.51799345">
-              <caret line="27" column="188" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-              <folding>
-                <element signature="e#317#318#0" expanded="true" />
-                <element signature="e#344#345#0" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="0.18647765">
+              <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -117,8 +115,8 @@
         <option value="$PROJECT_DIR$/web/login.jsp" />
         <option value="$PROJECT_DIR$/web/hello.jsp" />
         <option value="$PROJECT_DIR$/src/cn/sxt/interceptor/TimeInterceptor.java" />
-        <option value="$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java" />
         <option value="$PROJECT_DIR$/src/struts.xml" />
+        <option value="$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java" />
       </list>
     </option>
   </component>
@@ -204,6 +202,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StrutsTest3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="StrutsTest3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value=".idea" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -914,11 +926,12 @@
       <workItem from="1458263753999" duration="5147000" />
       <workItem from="1458359574477" duration="618000" />
       <workItem from="1458395996744" duration="31000" />
+      <workItem from="1458396836439" duration="468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25564000" />
+    <option name="totallyTimeSpent" value="26032000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
@@ -1005,13 +1018,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://E:/Program Files/tomcat/struts-2.3.24.1-all/struts-2.3.24.1/src/core/src/main/java/org/apache/struts2/dispatcher/DefaultActionSupport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="13" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$PROJECT_DIR$/lib/xwork-core.jar!/com/opensymphony/xwork2/DefaultActionInvocation.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -1355,7 +1361,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/WEB-INF/web.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
+        <state vertical-scroll-proportion="-13.571428">
           <caret line="20" column="43" selection-start-line="20" selection-start-column="43" selection-end-line="20" selection-end-column="43" />
           <folding />
         </state>
@@ -1380,14 +1386,19 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3329453">
+          <caret line="75" column="30" selection-start-line="75" selection-start-column="28" selection-end-line="75" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/cn/sxt/action/HelloAction.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.51799345">
-          <caret line="27" column="188" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="e#317#318#0" expanded="true" />
-            <element signature="e#344#345#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.18647765">
+          <caret line="9" column="61" selection-start-line="9" selection-start-column="61" selection-end-line="9" selection-end-column="61" />
+          <folding />
         </state>
       </provider>
     </entry>
