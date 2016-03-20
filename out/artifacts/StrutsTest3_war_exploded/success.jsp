@@ -12,7 +12,8 @@
 </head>
 <body>
 <form action="login.action">
-    用户名:${name}
+    用户名:${name}<br>
+    <a href="hello.action?name=zhangsan">hello</a>
 </form>
 </body>
 </html>
