@@ -7,7 +7,7 @@ import com.opensymphony.xwork2.*;
  * Created by Administrator on 2016/3/18.
  */
 public class HelloAction {
-    //master上也有注释啦
+    //dev上add 修改
     private String name;
     public  String execute(){
         System.out.println("name ="+name);
